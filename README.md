@@ -17,6 +17,8 @@ This repository covers custom dataset generation, EDA, feature engineering, KNN 
 | 7 | Agglomerative implementation | Notebook Phase V |
 | 8 | Comparative report | Notebook Phase VI and [`report/Assignment2_Report.pdf`](report/Assignment2_Report.pdf) |
 
+A step-by-step study guide with viva questions is in [`LEARNING_GUIDE.md`](LEARNING_GUIDE.md).
+
 All figures are saved in [`figures/`](figures/). All numeric results are saved in [`results.json`](results.json).
 
 ## Key results
